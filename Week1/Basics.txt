@@ -2,3 +2,11 @@ hello.c
 cmd: cc -o hello hello.c
 cmd: ./hello
 o/p: Hello World
+
+
+$ GCC man  -- man command provide access to the online manual page of GNU project c and c++ compiler 
+to get more information type $ info GCC
+
+To include subdirectories or non-standared places by specifying the -I flag to the c compiler 
+
+$ gcc -I/usr/openwin/include fred.c
