@@ -1,0 +1,4 @@
+hello.c 
+cmd: cc -o hello hello.c
+cmd: ./hello
+o/p: Hello World
